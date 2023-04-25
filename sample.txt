@@ -1,0 +1,7 @@
+getting started. 
+a. adding the magnifying property correct. 
+b.  
+
+1. Implement Search by book title or author name
+2. paginated results.
+3. clearn search texts.
